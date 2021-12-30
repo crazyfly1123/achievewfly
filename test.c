@@ -6,3 +6,12 @@ int main()
 }
 
 
+
+void xianshi()
+{
+  printf("start");
+  printf("doing");
+  printf("end");
+}
+
+
